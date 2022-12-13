@@ -1,0 +1,11 @@
+
+.inner-form {
+  padding-left: 5%;
+  padding-right: 5%;
+  margin: auto;
+  max-width: 500px;
+}
+
+.error{
+	color:red;
+}

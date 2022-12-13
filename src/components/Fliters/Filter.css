@@ -1,0 +1,11 @@
+.main_filter_div{
+	border: 1px solid black;
+	margin-top:10px;
+	padding-top: 10px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.main_filter_div h5{
+	margin-top: 20px;
+}
